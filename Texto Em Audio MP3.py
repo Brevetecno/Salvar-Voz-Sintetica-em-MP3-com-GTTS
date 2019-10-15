@@ -4,10 +4,10 @@
 
 from gtts import gTTS
 
-loop = True
-idioma = 'pt-br'
-
 while True:
+    loop = True
+    idioma = 'pt-br'
+
     print('='*50)
     print('Digite um texto que será transformado em voz.')
 
